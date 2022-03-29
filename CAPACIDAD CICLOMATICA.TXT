@@ -1,0 +1,5 @@
+CAPACIDAD CICLOMATICA:
+
+V(G) = E - N + 2
+V(G) = 18 - (15 + 2)
+V(G) = 18 - 17 = 1
